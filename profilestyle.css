@@ -1,0 +1,12 @@
+div{
+    position: absolute;
+    left:700px;
+}
+#highlight-circle{
+    position:absolute;
+    left:700px;
+    top:200px;
+}
+.post{
+    height:400px;
+}

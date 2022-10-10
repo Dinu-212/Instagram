@@ -1,0 +1,50 @@
+body{
+    background:#EEEEEE;
+    color:#B1B2FF;
+    font-size: 20px;
+}
+td{
+    padding:20px;
+}
+hr {
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 20%;
+  }
+  a{
+    text-decoration: double;
+    color:grey;
+  }
+.user-login{
+    position:absolute;
+    left:1200px;
+    top:100px;
+}
+.button{
+    background-color: #B1B2FF;
+    color: white;
+    padding:5px 15px;
+    font-size: 17px;
+}
+#h1-instagram{
+    padding-left:70px;
+}
+.header {
+    background-color: #b1b2ff;
+    left:0px;
+    right:0px;
+  }
+  nav ul {
+    display: flex;
+    justify-content: flex-end;
+  }
+  nav ul li {
+    color: white;
+    padding: 10px;
+    border: 50px;
+    list-style: none;
+  }
+  nav ul li a {
+    text-decoration: none;
+  }
